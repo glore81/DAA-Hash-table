@@ -21,7 +21,7 @@ public class Benchmark {
             System.out.println();
 
             System.out.println("====================================================================");
-            System.out.println(" Array Size Size: " + size + " elements");
+            System.out.println(" Array Size: " + size + " elements");
             System.out.println("====================================================================");
 
             long startBstInsert = System.nanoTime();
